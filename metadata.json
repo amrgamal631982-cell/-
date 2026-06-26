@@ -1,0 +1,6 @@
+{
+  "name": "Secret Ink (حبر سري)",
+  "description": "لعبة جماعية مليئة بالحماس والغموض. اكتشف الهاكر قبل أن يكتشف الكلمة السرية! Secret Ink is a modern, culturally relevant Arab local multiplayer party game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
